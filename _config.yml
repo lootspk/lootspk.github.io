@@ -9,17 +9,22 @@ baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
+# add banner video. Add your video file to the folder video (!!! changed to coding)
 video: Hello-World.mp4 
-banner-title: # add banner title
-banner-desc: # add banner description
+# add banner title
+banner-title: Patrick Loots 
+# add banner description
+banner-desc: "A journey of a thousand miles begins with a single step". — Lao Tzu
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-pic: myFace.jpg 
+# your name
+author-name: Patrick Loots
+# about author
+about-author: 3rd year BIT student at Otago Polytechnic
+email: lootspk1@gmail.com
+phone: (496)-169-6557
+website: https://dwayne.example.com 
 
 # Social link
 google_url:    # add url link
