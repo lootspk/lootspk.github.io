@@ -9,7 +9,7 @@ baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video:coding.mp4 # add banner video. Add your video file to the folder video (!!! changed to coding)
+video: Hello-World.mp4 
 banner-title: # add banner title
 banner-desc: # add banner description
 
