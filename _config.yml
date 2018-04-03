@@ -5,26 +5,21 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/lootspk.github.io" 
-url: "https://lootspk.github.io/" 
+baseurl: "/bef" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-# add banner video. Add your video file to the folder video (!!! changed to coding)
-video: Hello-World.mp4 
-# add banner title
-banner-title: Patrick Loots 
-# add banner description
-banner-desc: "A journey of a thousand miles begins with a single step". — Lao Tzu
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: # add banner title
+banner-desc: # add banner description
 
 # Author settings
-author-pic: myFace.jpg 
-# your name
-author-name: Patrick Loots
-# about author
-about-author: 3rd year BIT student at Otago Polytechnic
-email: lootspk1@gmail.com
-phone: (496)-169-6557
-website: https://dwayne.example.com 
+author-pic: face.jpg # your photo
+author-name: # your name
+about-author: # about author
+email: your-email@domain.com # your email
+phone: (496)-169-6557 # your pnone number
+website: https://dwayne.example.com # you website
 
 # Social link
 google_url:    # add url link
