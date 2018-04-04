@@ -1,4 +1,4 @@
-logo: Logo
+logo: Home
 title: Patrick Loots
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,7 +14,7 @@ banner-title: Patrick Loots
 banner-desc: Welcome to my blog!
 
 # Author settings
-author-pic: myFace.jpg # your photo
+author-pic: myFace.JPG # your photo
 author-name: Patrick Loots
 about-author: 3rd year BIT student at Otago Polytechnic
 email: lootspk1@gmail.com # your email
